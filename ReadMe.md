@@ -1,7 +1,5 @@
-The aim of this was to be able to send and recieve data over UART using a dsPIC30F4011 and the MPLAB X IDE for my Microcontroller Application Group Lab (MAGL) module at university.
-
 ## Aim
-The Aim of this program was to send strings over UART on the dsPIC30F4011
+The Aim of this program was to send and recieve data over UART on the dsPIC30F4011 using MPLAB X IDE for my Microcontroller Application Group Lab (MAGL) module at university.
 
 ## Procedure
 The first step was to calculate the baud rate. This is vital to allow communications between the microcontrollers. 
